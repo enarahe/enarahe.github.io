@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://enarahe.github.io/sitemap.html.gz
+Sitemap: https://enarahe.github.io/app/sitemap.html.gz
+Sitemap: https://enarahe.github.io/assets/sitemap.html.gz
+Sitemap: https://enarahe.github.io/css/sitemap.html.gz
+Sitemap: https://enarahe.github.io/includes/sitemap.html.gz
+Sitemap: https://enarahe.github.io/item/sitemap.html.gz
+Sitemap: https://enarahe.github.io/src/sitemap.html.gz
